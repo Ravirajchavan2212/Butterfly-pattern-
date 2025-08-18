@@ -1,6 +1,6 @@
 # Butterfly-pattern-
 It's java code to show butterfly 
-public class Program {
+public class ButterflyPattern {
     public static void main(String[] args) {
         int n = 5;
 
